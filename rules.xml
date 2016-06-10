@@ -1,0 +1,3 @@
+<filename_rules no_matching_rule_destination_folder="/Users/boss/Documents/MOVIES/">
+	<filename_rule pattern="[sS]\d+[eE]\d+" destination_folder="/Users/boss/Documents/TV/"/>
+</filename_rules>
